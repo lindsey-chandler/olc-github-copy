@@ -57,3 +57,6 @@ When you have more time, make sure to sign up for Github Education to get specia
 ## Questions?
 Email Anna Everett (everetta@utk.edu) or Jian Su (jsu1@utk.edu). 
 
+## Workshop Participant Info
+Added extra line from workshop participant Lindsey Chandler, Ph.D. (lchandler@utk.edu). 
+
